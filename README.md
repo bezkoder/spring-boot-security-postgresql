@@ -98,6 +98,8 @@ Associations:
 
 > [Spring Boot + Angular 16 JWT Authentication](https://www.bezkoder.com/angular-16-spring-boot-jwt-auth/)
 
+> [Spring Boot + Angular 17 JWT Authentication](https://www.bezkoder.com/angular-17-spring-boot-jwt-auth/)
+
 > [Spring Boot + React JWT Authentication](https://bezkoder.com/spring-boot-react-jwt-auth/)
 
 ## Fullstack CRUD App
@@ -119,6 +121,8 @@ Associations:
 > [Angular 15 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-15-postgresql/)
 
 > [Angular 16 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-16-postgresql/)
+
+> [Angular 17 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-17-postgresql/)
 
 > [React + Spring Boot + PostgreSQL example](https://bezkoder.com/spring-boot-react-postgresql/)
 
